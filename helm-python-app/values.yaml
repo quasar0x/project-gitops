@@ -1,7 +1,7 @@
 replicaCount: 3
 image:
   repository: dizevbije/project-gitops
-  tag: be0e5f7
+  tag: 816892a
   pullPolicy: IfNotPresent
 service:
   type: ClusterIP
