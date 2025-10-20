@@ -4,7 +4,7 @@ This project bootstraps a local Kubernetes cluster using Minikube and provisions
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 project-gitops/
@@ -83,7 +83,7 @@ argocd login localhost:8081 --username admin --password <pwd> --insecure
 
 ---
 
-## 🌐 Python App Access
+## Python App Access
 
 ### Port Forward Service
 ```bash
@@ -94,7 +94,7 @@ Then visit: [http://localhost:8082](http://localhost:8082)
 You should see the current time returned from the Flask app.
 ---
 
-## 🧹 Cleanup
+## Cleanup
 ```bash
 terraform destroy
 ```
