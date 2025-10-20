@@ -1,4 +1,4 @@
-# 🚀 Project GitOps with Terraform, Minikube & ArgoCD
+# Project GitOps with Terraform, Minikube & ArgoCD
 
 This project bootstraps a local Kubernetes cluster using Minikube and provisions ArgoCD via Helm. It also deploys a Python Flask app using Helm and manages everything through GitOps.
 
